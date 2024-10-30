@@ -1,5 +1,6 @@
 """"A module that adds numbers together"""
 
+
 def add_num(num_1, num_2):
     """A function that add two numbers together
 
@@ -14,6 +15,6 @@ def add_num(num_1, num_2):
     Return
     ______
         The sum of two numbers
-    
+
     """
     return num_1 + num_2
