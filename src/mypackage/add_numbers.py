@@ -7,11 +7,11 @@ def add_num(num_1, num_2):
     __________
 
     num_1 : int
-        The second number that the function will add.
+        The first number that the function will add.
     num_2: int
         The second number that the function will add.
 
-    Return:
+    Return
     ______
         The sum of two numbers
     
